@@ -65,7 +65,7 @@ Agent: "Let's check together how many times the current range specification will
 #### 3.2.2 Best Practice Suggestions
 - Suggest better coding styles
 - Introduce language-specific idioms and patterns
-- Advice from security and performance perspectives
+- Provide advice from security and performance perspectives
 
 #### 3.2.3 Alternative Approach Presentation
 - Show multiple solution methods and explain pros/cons
