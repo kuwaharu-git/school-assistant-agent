@@ -155,8 +155,8 @@ Agent: "Let's check together how many times the current range specification will
 │         (Authentication, Routing, Rate Limiting)        │
 └─────────────┬───────────────────────────────────────────┘
               │
-    ┌─────────┴─────────┬─────────────┬─────────────┐
-    │                   │             │             │
+    ┌─────────┴─────────┬─────────────┬─────────────┬─────────┐
+    │                   │             │             │         │
 ┌───▼────────┐  ┌───────▼──────┐  ┌──▼──────┐  ┌──▼──────┐
 │ Dialogue   │  │ Code         │  │ Learning│  │ Notif.  │
 │ Manager    │  │ Analyzer     │  │ Analytics│ │ Service │
